@@ -1,0 +1,16 @@
+earthaccess
+xarray
+netCDF4
+h5netcdf
+pandas
+geopandas
+shapely
+pyproj
+matplotlib
+ipyleaflet
+ipywidgets
+fiona
+pyogrio
+numpy
+requests
+pyarrow
