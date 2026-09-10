@@ -1,0 +1,14 @@
+id,latitude,longitude,distancia_m_pixel_pixc,classe_pixel,classe_pixel_significado,qualidade_pixel,qualidade_pixel_significado,suporte_pixc_interpretado,observacoes
+P01,-15.539765,-47.972069,11.28,1,land,2049,,nao,classe_pixel interpretada como incompatível: land
+P02,-15.541334,-47.969589,25.67,1,land,1,,nao,classe_pixel interpretada como incompatível: land
+P03,-15.541921,-47.981644,30.64,1,land,1,,nao,classe_pixel interpretada como incompatível: land
+P04,-15.542892,-47.980763,24.93,1,land,3,,nao,classe_pixel interpretada como incompatível: land
+P05,-15.542658,-47.979778,13.65,1,land,1,,nao,classe_pixel interpretada como incompatível: land
+P06,-15.543083,-47.979286,12.35,1,land,3,,nao,classe_pixel interpretada como incompatível: land
+P07,-15.541673,-47.979366,27.22,2,land_near_water,1,,nao,classe_pixel interpretada como incompatível: land_near_water
+P08,-15.537334,-47.97575,29.85,1,land,1,,nao,classe_pixel interpretada como incompatível: land
+P09,-15.537017,-47.975281,6.81,1,land,2,,nao,classe_pixel interpretada como incompatível: land
+P10,-15.536032,-47.97686,16.14,1,land,1,,nao,classe_pixel interpretada como incompatível: land
+P11,-15.546308,-47.973927,277.82,1,land,1,,nao,classe_pixel interpretada como incompatível: land
+P12,-15.546803,-47.963135,19.48,1,land,1,,nao,classe_pixel interpretada como incompatível: land
+P13,-15.544127,-47.964832,27.98,1,land,1,,nao,classe_pixel interpretada como incompatível: land
