@@ -1,0 +1,2 @@
+granule_id,cycle,pass,tile,data_inicio,data_fim,tamanho_mb,n_pixels_total,n_pixels_validos,n_pixels_janela_2km,n_pixels_janela_5km,n_pixels_janela_10km
+SWOT_L2_HR_PIXC_055_227_127L_20260829T001610_20260829T001621_PID0_01,055,227,127L,2026-08-29T00:16:10Z,2026-08-29T00:16:21Z,311.3316822052002,3235563,3235563,5821,30964,113450
