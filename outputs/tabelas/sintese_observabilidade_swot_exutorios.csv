@@ -1,0 +1,14 @@
+id,latitude,longitude,cobertura_potencial_swot,suporte_riversp_pass255,suporte_riversp_pass227,suporte_lakesp_pass227,distancia_pixc_m,classe_pixel,classe_pixel_significado,suporte_pixc_interpretado,conclusao_observabilidade
+P01,-15.539765,-47.972069,sim,nao,nao,nao,11.28,1,land,nao,sem_suporte_agua_na_passagem_testada
+P02,-15.541334,-47.969589,sim,nao,nao,nao,25.67,1,land,nao,sem_suporte_agua_na_passagem_testada
+P03,-15.541921,-47.981644,sim,nao,nao,nao,30.64,1,land,nao,sem_suporte_agua_na_passagem_testada
+P04,-15.542892,-47.980763,sim,nao,nao,nao,24.93,1,land,nao,sem_suporte_agua_na_passagem_testada
+P05,-15.542658,-47.979778,sim,nao,nao,nao,13.65,1,land,nao,sem_suporte_agua_na_passagem_testada
+P06,-15.543083,-47.979286,sim,nao,nao,nao,12.35,1,land,nao,sem_suporte_agua_na_passagem_testada
+P07,-15.541673,-47.979366,sim,nao,nao,nao,27.22,2,land_near_water,nao,sem_suporte_agua_na_passagem_testada
+P08,-15.537334,-47.97575,sim,nao,nao,nao,29.85,1,land,nao,sem_suporte_agua_na_passagem_testada
+P09,-15.537017,-47.975281,sim,nao,nao,nao,6.81,1,land,nao,sem_suporte_agua_na_passagem_testada
+P10,-15.536032,-47.97686,sim,nao,nao,nao,16.14,1,land,nao,sem_suporte_agua_na_passagem_testada
+P11,-15.546308,-47.973927,sim,nao,nao,nao,277.82,1,land,nao,sem_suporte_agua_na_passagem_testada
+P12,-15.546803,-47.963135,sim,nao,nao,nao,19.48,1,land,nao,sem_suporte_agua_na_passagem_testada
+P13,-15.544127,-47.964832,sim,nao,nao,nao,27.98,1,land,nao,sem_suporte_agua_na_passagem_testada

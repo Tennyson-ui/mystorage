@@ -1,0 +1,11 @@
+variavel,valor,significado,fonte,observacoes
+classe_pixel,1,land,NetCDF:/pixel_cloud/classification,long_name=classification; valid_min=1; valid_max=7; _FillValue=255; comment=Flags indicating water detection results.
+classe_pixel,2,land_near_water,NetCDF:/pixel_cloud/classification,long_name=classification; valid_min=1; valid_max=7; _FillValue=255; comment=Flags indicating water detection results.
+classe_pixel,3,water_near_land,NetCDF:/pixel_cloud/classification,long_name=classification; valid_min=1; valid_max=7; _FillValue=255; comment=Flags indicating water detection results.
+classe_pixel,4,open_water,NetCDF:/pixel_cloud/classification,long_name=classification; valid_min=1; valid_max=7; _FillValue=255; comment=Flags indicating water detection results.
+classe_pixel,5,dark_water,NetCDF:/pixel_cloud/classification,long_name=classification; valid_min=1; valid_max=7; _FillValue=255; comment=Flags indicating water detection results.
+classe_pixel,6,low_coh_water_near_land,NetCDF:/pixel_cloud/classification,long_name=classification; valid_min=1; valid_max=7; _FillValue=255; comment=Flags indicating water detection results.
+classe_pixel,7,open_low_coh_water,NetCDF:/pixel_cloud/classification,long_name=classification; valid_min=1; valid_max=7; _FillValue=255; comment=Flags indicating water detection results.
+qualidade_pixel,,,NetCDF:/pixel_cloud/classification_qual,"Sem flag_values/flag_meanings no atributo da variavel. Verificar flag_masks quando existir. standard_name=status_flag; flag_masks=[         1          2          4          8         16       1024
+       2048       8192      16384      32768     262144     524288
+  134217728  536870912 1073741824 2147483648]; valid_min=0; valid_max=3893160991; _FillValue=4294967295; comment=Quality flag for the classification quantities in the pixel cloud data"
