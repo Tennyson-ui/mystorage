@@ -1,5 +1,6 @@
 dados/raw/
 dados/intermediarios/
+notebooks/originais/
 
 *.nc
 *.zip
@@ -18,6 +19,11 @@ env/
 
 outputs/logs/*.tmp
 outputs/logs/*.log
+outputs/relatorios/_qa*/
+outputs/tabelas/pixels_pixc_classificados_entorno_exutorios.csv
+PROJECT_DISCOVERY_REPORT.md
+research_os.yaml
 
 .DS_Store
 Thumbs.db
+.research_os/

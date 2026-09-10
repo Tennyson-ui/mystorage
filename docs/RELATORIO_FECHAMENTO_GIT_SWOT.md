@@ -9,7 +9,7 @@ Sim. O Git foi inicializado localmente apenas dentro da pasta da atividade 3.
 A pasta transformada em repositorio Git independente foi:
 
 ```text
-D:\unb\Mestrado\TÓPICOS EM GEOPROCESSAMENTO E ANÁLISE AMBIENTAL 2\atividade3_swot
+atividade3_swot
 ```
 
 O workspace principal da disciplina nao foi inicializado como repositorio Git.
